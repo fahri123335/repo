@@ -1,0 +1,6 @@
+Origin: X OS Repository
+Label: X OS
+Suite: stable
+Codename: binary
+Architectures: all
+Description: Official repository for X OS customization packages
